@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.img{
+img{
     max-width: 100%;
 }
 .container{
@@ -12,7 +12,7 @@
     min-width: 375px;
     margin: 0 auto;
     padding: 50px;
-    border: 2px solid black;
+  
 }
 .prep_head{
     color: rgb(136, 17, 130);
@@ -53,6 +53,7 @@ h2{
 }
 table {
     width: 100%;
+    border-collapse:collapse;
 
 }
 
