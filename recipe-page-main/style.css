@@ -1,0 +1,62 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.img{
+    max-width: 100%;
+}
+.container{
+    width:90%;
+    max-width:1440px;
+    min-width: 375px;
+    margin: 0 auto;
+    padding: 50px;
+    border: 2px solid black;
+}
+.prep_head{
+    color: rgb(136, 17, 130);
+    padding-top: 25px;
+    padding-left: 26px;
+    font-weight: bolder;
+}
+.prep_cont{
+    background-color: rgb(242, 232, 240);
+    padding-bottom: 10px;
+}
+.prep_list{
+    font-weight: bold;
+}
+li {
+    padding-left: 0.5em; 
+    padding-bottom: 10px;;
+  }
+
+h2{
+    color: rgb(174, 55, 55)
+}
+.ingr{
+    margin-left: 0;
+    padding-left: 1em;
+}
+.inst_head{
+    font-weight: bolder;
+}
+.inst{
+    margin-left: 0px;
+    padding-left: 1em;
+}
+.nut_value{
+    font-weight: bolder;
+   color: rgb(174, 55, 55);
+   padding-left: 250px;
+}
+table {
+    width: 100%;
+
+}
+
+td {
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
